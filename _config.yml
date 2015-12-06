@@ -1,7 +1,7 @@
 name: Crypto Homie
 favicon: null
-layout_spectrum: 0.2921036093030125
-typography_spectrum: 0.594266468193382
+layout_spectrum: 0.17428
+typography_spectrum: 0.88957
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#5C6B73'
     - '#253237'
   brandStrength: 0.87638103752397
-  lightness: 0.13483766675926745
-  saturation: 0.9319166319910437
-  rhythmicContrast: 0.9255561949685216
+  lightness: 0.25
+  saturation: 0.25
+  rhythmicContrast: 0.5
 purpose: []
