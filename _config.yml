@@ -2,7 +2,7 @@ name: Crypto Homie
 favicon: null
 layout_spectrum: 0.17428
 typography_spectrum: 0.88957
-title: '<a href="https://bleutrade.com/home/21901" target="_blank" title="Bleutrade Cryptocurrency Exchange"><img src="https://bleutrade.com/imgs/banners/BleutradeAds1-728x90.gif" alt="Bleutrade Cryptocurrency Exchange" title="Bleutrade Cryptocurrency Exchange"/></a>'
+title: null
 cta:
   domain: null
   bucket: null
