@@ -4,8 +4,15 @@
         <description><![CDATA[Crypto Homie]]></description>
         <link>https://thegrid.ai/crypto-homie/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Dec 2015 03:48:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Dec 2015 03:54:33 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/crypto-homie/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin Block Explorer - Blockchain.info]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Block Explorer - Blockchain.info</h1><p>Bitcoin Block Explorer & Currency Statistics. View detailed information on all bitcoin transactions and blocks.</p></article>]]></description>
+            <link>https://blockchain.info/</link>
+            <guid isPermaLink="false">4e0fc54b-3df7-4bf7-a298-b1da9aa69688</guid>
+            <pubDate>Sun, 06 Dec 2015 03:54:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Vizionary Home]]></title>
             <description><![CDATA[<article><h1>Vizionary Home</h1><p>The Vizionary Mission is to promote the use of Digital Currencies for mainstream, everyday use. Our goal is to create an international platform where users can transact with each other easily and securely.</p></article>]]></description>
