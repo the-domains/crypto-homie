@@ -4,8 +4,15 @@
         <description><![CDATA[Crypto Homie]]></description>
         <link>http://cryptocurrencyhomie.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Jan 2016 03:41:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jan 2016 03:42:32 GMT</lastBuildDate>
         <atom:link href="http://cryptocurrencyhomie.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Vizionary Home]]></title>
+            <description><![CDATA[<article><h1>Vizionary Home</h1><p>The Vizionary Mission is to promote the use of Digital Currencies for mainstream, everyday use. Our goal is to create an international platform where users can transact with each other easily and securely.</p></article>]]></description>
+            <link>https://www.vizionary.com/Swirvn10</link>
+            <guid isPermaLink="false">2907739f-b397-47ee-8f63-98acf4bfac38</guid>
+            <pubDate>Tue, 26 Jan 2016 03:42:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Vizionary Home]]></title>
             <description><![CDATA[<article><h1>Vizionary Home</h1><p>Join the Revolution </p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.vizionary.com/swirvn10</link>
             <guid isPermaLink="false">45887658-322d-46d1-b5d7-63f9c2acfdbc</guid>
             <pubDate>Sun, 06 Dec 2015 03:48:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Coinbase 'Instant' Bitcoin Buying Available in 26 Countries]]></title>
-            <description><![CDATA[<article><h1>Coinbase 'Instant' Bitcoin Buying Available in 26 Countries</h1><p>Coinbase has announced customers across 26 countries can buy bitcoin "instantly" from today. Previously, users could top up their accounts via bank transfer, however the exchange now supports 3D Secure credit and debit cards - having trialled the technology in the UK and Spain.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/174e616ec230c92db9ae2841b857c3ff543c3dfa.jpg"></article>]]></description>
-            <link>http://www.coindesk.com/coinbase-makes-instant-bitcoin-buying-available-in-26-countries/</link>
-            <guid isPermaLink="false">00ec1280-0aa4-452a-88ce-425b747812a3</guid>
-            <pubDate>Sun, 06 Dec 2015 03:48:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
