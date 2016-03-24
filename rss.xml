@@ -4,11 +4,18 @@
         <description><![CDATA[Crypto Homie]]></description>
         <link>http://cryptocurrencyhomie.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Jan 2016 15:58:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2016 18:26:20 GMT</lastBuildDate>
         <atom:link href="http://cryptocurrencyhomie.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Microsoft Certifies Ethereum Offering in Blockchain Service First - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Microsoft Certifies Ethereum Offering in Blockchain Service First - CoinDesk</h1><p>BlockApps, a startup providing Ethereum blockchain software for enterprises, has become the first certified offering on Microsoft Azure's Blockchain-as-a-Service (BaaS) marketplace. With its latest post, Microsoft also announced that asset exchange provider AlphaPoint and Internet-of-Things micropayments startup IOTA have joined its Azure BaaS platform.</p><img src="http://media.coindesk.com/2016/03/Screen-Shot-2016-03-01-at-9.17.27-AM-e1456841951724.png"></article>]]></description>
+            <link>http://www.coindesk.com/microsoft-ethereum-startup-blockchain/</link>
+            <guid isPermaLink="false">e4474ccb-c7ef-4e8b-836f-69ad06f2a361</guid>
+            <pubDate>Thu, 24 Mar 2016 18:25:31 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Official]]></title>
-            <description><![CDATA[<article><h1>Official</h1><p>What is CannabisCoin or CANN? Cannabis Coin is a peer-to-peer Internet digital currency that enables instant payments to anyone in the world. It is based on the Bitcoin protocol but differs from Bitcoin in that it can be efficiently mined with consumer-grade hardware. CannabisCoin is the payment solution for Marijuana dispensaries, retailers and merchants.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1cf258498f54451783afae2b14eb4a7ade5068b2.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Official</h1><p>What is CannabisCoin or CANN? Cannabis Coin is a peer-to-peer Internet digital currency that enables instant payments to anyone in the world. It is based on the Bitcoin protocol but differs from Bitcoin in that it can be efficiently mined with consumer-grade hardware. CannabisCoin is the payment solution for Marijuana dispensaries, retailers and merchants.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f16c3d80fb77e7d236f96c390e62bdca232f9203.jpg"></article>]]></description>
             <link>http://cannabiscoin.net/</link>
             <guid isPermaLink="false">348f6d8a-cf31-4199-9472-60c9d6b0389b</guid>
             <pubDate>Sat, 30 Jan 2016 15:58:28 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.ibtimes.com/bitcoin-price-spikes-following-reports-cryptocurrency-creator-satoshi-nakamoto-2217481</link>
             <guid isPermaLink="false">b21217d7-5622-4cb4-b661-31033dd3f14e</guid>
             <pubDate>Sun, 13 Dec 2015 04:28:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Block Explorer - Blockchain.info]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Block Explorer - Blockchain.info</h1><p>Bitcoin Block Explorer & Currency Statistics. View detailed information on all bitcoin transactions and blocks.</p></article>]]></description>
-            <link>https://blockchain.info/</link>
-            <guid isPermaLink="false">4e0fc54b-3df7-4bf7-a298-b1da9aa69688</guid>
-            <pubDate>Sun, 06 Dec 2015 04:07:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
